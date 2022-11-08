@@ -22,9 +22,9 @@ A website that a user can store input into a workday per time blocks.
 
 # Links to deployed application
 
-## GitHub repository for Module Challenge Three
+## GitHub repository for Module Challenge Five
 [Github Repo](https://github.com/Quaz711/WorkDayScheduler)
 
 
-## Live website for Module Challenge Three
+## Live website for Module Challenge Five
 [Live Website](https://quaz711.github.io/WorkDayScheduler/)
